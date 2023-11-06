@@ -18,16 +18,9 @@ instalaciones disponibles en este repo
 
 
 # link interesantes
-https://hub.docker.com/r/atlassian/pipelines-awscli
-https://github.com/xchangebit/ansible-aws-cli
-https://github.com/chrislennon/action-aws-cli
-
-
-
-
-# curso de jenkins
-
-
+* https://hub.docker.com/r/atlassian/pipelines-awscli
+* https://github.com/xchangebit/ansible-aws-cli
+* https://github.com/chrislennon/action-aws-cli
 
 
 # Mis Libros:
